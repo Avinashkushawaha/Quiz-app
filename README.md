@@ -1,16 +1,33 @@
-# React + Vite
+# 🧠 Edzy Hackathon – Quiz Application (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive **Quiz Application** built using **React + Vite + Tailwind CSS**, developed as part of the **Edzy Frontend Hackathon**.  
+The app allows students to select a subject, attempt quizzes question-by-question, retry until correct, track progress, and view a detailed summary at the end.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Features
 
-## React Compiler
+- ✅ Subject selection (Class 10 – English, Math, Science, Social Science)
+- ✅ Dynamic quiz fetching from Edzy API
+- ✅ One question at a time
+- ✅ Retry until the correct answer is selected
+- ✅ Per-question timer
+- ✅ Progress indicator (Question X of Y)
+- ✅ Final score summary
+- ✅ Incorrect attempt tracking
+- ✅ Reattempt quiz option
+- ✅ Mobile-responsive UI (Tailwind CSS)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js (Vite)
+- **Styling:** Tailwind CSS
+- **API Client:** Axios
+- **State Management:** React Hooks
+- **Build Tool:** Vite
+
+---
+
+## 📁 Project Structure
+
