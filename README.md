@@ -3,6 +3,17 @@
 An interactive **Quiz Application** built using **React + Vite + Tailwind CSS**, developed as part of the **Edzy Frontend Hackathon**.  
 The app allows students to select a subject, attempt quizzes question-by-question, retry until correct, track progress, and view a detailed summary at the end.
 
+---
+
+## 🖼️ Preview
+
+![quiz-app Preview](Q1.png)
+![quiz-app Preview](Q2.png)
+![quiz-app Preview](Q3.png)
+![quiz-app Preview](Q4.png)
+
+---
+
 
 ## 🚀 Live Features
 
