@@ -1,4 +1,4 @@
-# 🧠 Edzy Hackathon – Quiz Application (Frontend)
+# 🧠 Quiz Application (Frontend)
 
 An interactive **Quiz Application** built using **React + Vite + Tailwind CSS**, developed as part of the **Edzy Frontend Hackathon**.  
 The app allows students to select a subject, attempt quizzes question-by-question, retry until correct, track progress, and view a detailed summary at the end.
